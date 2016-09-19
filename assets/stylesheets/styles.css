@@ -1,0 +1,111 @@
+
+
+#rock{
+	/*background-color:transparent;*/
+	/*border-color:transparent; */
+	height: 200px;
+	width: 200px;
+	background: url('../images/rock.png') no-repeat;
+}
+
+#paper{
+	height:200px; 
+	width: 200px;
+	background: url('../images/paper.jpeg') no-repeat;
+}
+
+#scissors{
+	height: 200px;
+	width: 200px;
+
+	background: url('../images/golden_scissors.jpeg') no-repeat;
+}
+
+
+
+	h1 { 
+		font-size: 60px;
+		text-align: center;
+;
+		
+
+	}
+	h2 {
+		font-size: 35px;
+		text-align: center;
+	}
+
+
+#playerSide {
+	float:left;
+	margin: 0 0 0 0;
+	
+}
+
+#computerSide {
+	float:right;
+	margin: 0 0 0 0;
+	
+}
+
+#instructions {
+	padding: 0 0 0 40% ;
+}
+
+#buttons {
+	margin: 10% 0 0 10%;
+    display:inline-block;
+    
+}
+
+input[type=button] {
+	background-color:#FFFACD;
+	border-radius: 20px;
+	width:6em;
+	height:2em;
+	font-size: 20px;
+	
+}
+
+.resultSentence {
+	margin:
+	font-size: 30px;
+}
+
+
+.compWeapon {
+	margin: 20% 0 0 45%;
+	font-size: 30px;
+}
+
+#replayButton {
+	background-color: #FFD700;
+	margin:5% 0 0 35%;
+}
+
+#boxmodel_pic {
+	width: 200px;
+	float: right;
+	margin-left: 15px;
+}
+
+
+
+#top {
+text-align: center;
+font-size: 20px;
+
+}
+
+#content {
+width: 600px;
+background: #33FBFF;
+border: 3px solid black;
+border-radius: 10px;
+margin: 40px auto;
+padding: 30px auto;
+
+}
+
+
+

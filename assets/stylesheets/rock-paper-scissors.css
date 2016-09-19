@@ -1,0 +1,129 @@
+h1 { 
+		font-size: 60px;
+		text-align: center;
+		color: black;
+		background-color: navy;
+		
+
+	}
+	h2 {
+		font-size: 35px;
+		text-align: center;
+		color: #2E1D9B;
+		background-color: #33FBFF ;
+	}
+	body{
+		background: url("../assets/images/first_try_background.jpg") 
+		no-repeat center center;
+		background-size: cover;
+		background
+	}
+
+#playerSide {
+	float:left;
+	margin: 0 0 0 0;
+	
+}
+
+#computerSide {
+	float:right;
+	margin: 0 0 0 0;
+	
+}
+
+#instructions {
+	padding: 0 0 0 40% ;
+}
+
+#buttons {
+	margin: 10% 0 0 10%;
+    display:inline-block;
+    
+}
+
+input[type=button] {
+	background-color:#FFFACD;
+	border-radius: 20px;
+	width:6em;
+	height:2em;
+	font-size: 20px;
+	
+}
+
+.resultSentence {
+	margin:
+	font-size: 30px;
+}
+
+.shake {
+	-webkit-animation: shake 1.5s;
+	-moz-animation: shake 1.5s;
+	-ms-animation: shake 1.5s;
+	animation: shake 1.5s;
+}
+
+.compWeapon {
+	margin: 20% 0 0 45%;
+	font-size: 30px;
+}
+
+#replayButton {
+	background-color: #FFD700;
+	margin:5% 0 0 35%;
+}
+
+#boxmodel_pic {
+	width: 200px;
+	float: right;
+	margin-left: 15px;
+}
+
+
+
+#top {
+text-align: center;
+font-size: 20px;
+
+}
+
+#content {
+width: 600px;
+background: #33FBFF;
+border: 3px solid black;
+border-radius: 10px;
+margin: 40px auto;
+padding: 30px auto;
+
+}
+
+
+
+
+#footer {
+width: 600px;
+border: 10px solid yellow;
+background-color: #336699;
+margin: 40px auto;
+padding: 20px;
+font-size: 12px;
+color: white;
+bottom: -1200px;
+height: 50px;
+left: 0;
+position: absolute;
+right: 0;
+
+
+
+}
+
+#footer2 {
+width: 600px;
+border: 10px solid yellow;
+background-color: #336699;
+margin: 40px auto;
+padding: 20px;
+font-size: 12px;
+color: white;
+}
+
